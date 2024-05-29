@@ -1,7 +1,7 @@
 
 public class SistemaDeMedida {
     public static void main(String[] args) {
-        String sigla = "P";
+        String sigla = "M";
 
         switch (sigla) {
             case "P":{
@@ -20,5 +20,5 @@ public class SistemaDeMedida {
                 System.out.println("INDEFINIDO!");
                 break;
         }
-    }
+     }
 }
